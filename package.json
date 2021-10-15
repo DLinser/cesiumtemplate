@@ -31,7 +31,8 @@
     "eslint-plugin-vue": "^7.0.0",
     "sass": "^1.26.5",
     "sass-loader": "^8.0.2",
-    "strip-pragma-loader": "^1.0.0"
+    "strip-pragma-loader": "^1.0.0",
+    "vue-cli-plugin-cesium": "~1.1.7"
   },
   "eslintConfig": {
     "root": true,
